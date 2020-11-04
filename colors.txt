@@ -1,0 +1,6 @@
+  black: '#1C302F',
+  white: '#FFFFFF',
+  blue: '#8ddad9',
+  red: '#dd2867',
+  green: '#17c6a3',
+  yellow: '#ffd35c'
