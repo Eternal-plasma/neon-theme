@@ -1,4 +1,4 @@
 # neon-theme
-neon theme for vscode
+Neon theme for vscode
 
 ![Preview](preview.PNG)
